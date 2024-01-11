@@ -1,0 +1,7 @@
+Scanner input=new Scanner(System.in); 
+String name=input.nextLine(); 
+[aeiouAEIOU]
+String n1=name.replaceAll("	",""); 
+System.out.println(n1); 
+ 
+ 
